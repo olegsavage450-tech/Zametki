@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Мои заметки</string>
+    <string name="hint_note">Введите заметку…</string>
+    <string name="btn_add">Добавить</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="btn_delete">Удалить</string>
+    <string name="btn_edit">Редактировать</string>
+    <string name="dialog_edit_title">Редактировать заметку</string>
+    <string name="dialog_delete_title">Удалить заметку?</string>
+    <string name="dialog_delete_message">Это действие нельзя отменить</string>
+    <string name="msg_note_deleted">Заметка удалена</string>
+    <string name="msg_note_saved">Заметка сохранена</string>
+    <string name="msg_empty_note">Введите текст заметки</string>
+    <string name="msg_empty_text">Текст не может быть пустым</string>
+</resources>
